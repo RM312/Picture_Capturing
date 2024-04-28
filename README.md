@@ -1,5 +1,3 @@
-Sure, here's a README file for the provided code:
-
 # Face Detection and Photo Capture
 
 This Python script allows you to capture photos using your computer's default camera and detect faces in the captured frames. The script uses the OpenCV library for face detection and the Pillow library for saving the captured photos.
